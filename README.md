@@ -1,5 +1,5 @@
-# Test con npm
+# Test con node
 
 ```
-npm ./test/isVowel.spec.js
+node ./test/isVowel.spec.js
 ```
